@@ -33,9 +33,6 @@
 ### 📈 **Datos generales**
 ![Gerard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gerardforness&show_icons=true&theme=radical)
 
-### 📅 **Días activos**
-![Días activos](https://github-readme-streak-stats.herokuapp.com/?user=gerardforness&theme=radical)
-
 ### 📂 **Lenguajes más usados**
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=gerardforness&layout=compact&theme=radical)
 

@@ -1,7 +1,5 @@
 <!-- HEADER SECTION -->
-<p align="center">
-  <img src="YOUR_PHOTO_URL_HERE" alt="Gerard Fornés" width="150" style="border-radius: 50%;">
-</p>
+
 
 <h1 align="center">Gerard Fornés</h1>
 <h3 align="center">💻 Software Developer | Passionate Learner | Tech Explorer</h3>
@@ -10,11 +8,13 @@
 
 ## 🧠 About Me
 
-Hi! I'm Gerard, a software developer currently studying **Multiplatform Application Development** at [La Salle](https://www.lasalleuniversities.net/). I love building things with code, solving problems creatively, and learning new technologies every day.
+👋 Hi! I'm Gerard — a curious mind with a keyboard and a passion for building things that matter.  
+💻 Currently studying **Multiplatform Application Development** at [La Salle](https://gracia.lasalle.cat/es/ciclos/desarrollo-de-aplicaciones-multiplataforma/), where I’m learning to craft software that’s not just functional, but thoughtful.
 
-- ✈️ I enjoy traveling and discovering new cultures  
-- 🎮 Fan of retro games and Python experiments  
-- 🎯 My goal is to become a standout developer in the tech world
+✨ I believe great code is like good design: clean, purposeful, and a little bit fun.  
+🔍 Whether it’s a polished UI, a clever algorithm, or a tiny script that saves someone time — I love solving problems that make life easier.
+
+🚀 Every day, I push my limits to grow as a developer and as a person. The journey is just beginning.
 
 ---
 

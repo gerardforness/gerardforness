@@ -57,13 +57,6 @@ Feel free to reach out through any of the following:
 - 📧 Email: gerardforness@gmail.com
 - 🐙 [GitHub](https://github.com/gerardforness)
 
----
-
-## 🎉 Fun Facts
-
-- 🐍 My first game was a Snake built in Python  
-- ☕ Coffee + code = my favorite combo  
-- 🧩 I love solving complex problems with simple solutions
 
 ---
 

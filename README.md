@@ -54,7 +54,7 @@ I'm always open to new opportunities, collaborations, or just a friendly chat ab
 Feel free to reach out through any of the following:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gerard-forn%C3%A9s-sol%C3%A9-951b952a1/)  
-- 📧 Email: gerardforness@gmail.com *(replace with your actual email)*  
+- 📧 Email: gerardforness@gmail.com
 - 🐙 [GitHub](https://github.com/gerardforness)
 
 ---
